@@ -1,0 +1,13 @@
+C:\Users\josue\source\repos\FIANAL\FIANAL\bin\Debug\netcoreapp3.1\FIANAL.exe
+C:\Users\josue\source\repos\FIANAL\FIANAL\bin\Debug\netcoreapp3.1\FIANAL.deps.json
+C:\Users\josue\source\repos\FIANAL\FIANAL\bin\Debug\netcoreapp3.1\FIANAL.runtimeconfig.json
+C:\Users\josue\source\repos\FIANAL\FIANAL\bin\Debug\netcoreapp3.1\FIANAL.runtimeconfig.dev.json
+C:\Users\josue\source\repos\FIANAL\FIANAL\bin\Debug\netcoreapp3.1\FIANAL.dll
+C:\Users\josue\source\repos\FIANAL\FIANAL\bin\Debug\netcoreapp3.1\FIANAL.pdb
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.AssemblyInfo.cs
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.dll
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.pdb
+C:\Users\josue\source\repos\FIANAL\FIANAL\obj\Debug\netcoreapp3.1\FIANAL.genruntimeconfig.cache
